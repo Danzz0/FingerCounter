@@ -1,10 +1,7 @@
 import cv2
 import mediapipe as mediaP
 
-# comandos de importação de biblioteca
-        # pip install opencv-python
-        # pip install mediapipe
-        
+
 video = cv2.VideoCapture(0) # variável que armazena frames da primeira câmera que estiver conectada ao pc 
 
 
