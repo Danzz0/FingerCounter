@@ -7,5 +7,6 @@ comandos de importação de biblioteca:
 
         -  pip install opencv-python
 
+
         -  pip install mediapipe
         
