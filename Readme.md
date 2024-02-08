@@ -6,5 +6,6 @@ Para esse projeto, foram usadas as bibliotecas openCV e mediapipe
 comandos de importação de biblioteca:
 
         -  pip install opencv-python
+
         -  pip install mediapipe
         
